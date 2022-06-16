@@ -1,50 +1,50 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@babel/core': ^7.18.2
-  '@babel/plugin-syntax-flow': ^7.17.12
-  '@babel/plugin-transform-react-jsx': ^7.17.12
-  '@popperjs/core': ^2.11.5
-  '@sentry/react': ^6.19.7
-  '@sentry/tracing': ^6.19.7
-  '@stripe/react-stripe-js': ^1.8.1
-  '@stripe/stripe-js': ^1.31.0
+  '@babel/core': 7.18.2
+  '@babel/plugin-syntax-flow': 7.17.12
+  '@babel/plugin-transform-react-jsx': 7.17.12
+  '@popperjs/core': 2.11.5
+  '@sentry/react': 6.19.7
+  '@sentry/tracing': 6.19.7
+  '@stripe/react-stripe-js': 1.8.1
+  '@stripe/stripe-js': 1.31.0
   '@testing-library/dom': 8.11.1
-  '@testing-library/jest-dom': ^5.16.4
-  '@testing-library/react': ^12.1.5
-  '@testing-library/user-event': ^13.5.0
-  '@types/jest': ^27.5.2
-  '@types/lodash': ^4.14.182
-  '@types/node': ^17.0.41
+  '@testing-library/jest-dom': 5.16.4
+  '@testing-library/react': 12.1.5
+  '@testing-library/user-event': 13.5.0
+  '@types/jest': 27.5.2
+  '@types/lodash': 4.14.182
+  '@types/node': 17.0.41
   '@types/react': 17.0.38
   '@types/react-dom': 17.0.11
-  '@types/react-router-dom': ^5.3.3
-  '@types/styled-components': ^5.1.25
-  '@typescript-eslint/eslint-plugin': ^5.27.1
-  '@typescript-eslint/parser': ^5.27.1
-  autoprefixer: ^10.4.7
+  '@types/react-router-dom': 5.3.3
+  '@types/styled-components': 5.1.25
+  '@typescript-eslint/eslint-plugin': 5.27.1
+  '@typescript-eslint/parser': 5.27.1
+  autoprefixer: 10.4.7
   axios: 0.27.2
-  eslint: ^8.17.0
-  eslint-plugin-react: ^7.30.0
-  husky: ^7.0.4
-  joi: ^17.6.0
-  jwt-decode: ^3.1.2
-  lint-staged: ^12.5.0
-  lodash: ^4.17.21
-  postcss: ^8.4.14
-  prettier: ^2.6.2
+  eslint: 8.17.0
+  eslint-plugin-react: 7.30.0
+  husky: 7.0.4
+  joi: 17.6.0
+  jwt-decode: 3.1.2
+  lint-staged: 12.5.0
+  lodash: 4.17.21
+  postcss: 8.4.14
+  prettier: 2.7.1
   react: 17.0.2
   react-dom: 17.0.2
-  react-icons: ^4.4.0
-  react-is: ^18.1.0
-  react-query: ^3.39.1
-  react-router-dom: ^5.3.3
+  react-icons: 4.4.0
+  react-is: 18.1.0
+  react-query: 3.39.1
+  react-router-dom: 5.3.3
   react-scripts: 5.0.1
-  react-toastify: ^8.2.0
-  styled-components: ^5.3.5
-  swiper: ^8.2.2
-  typescript: ^4.7.3
-  web-vitals: ^2.1.4
+  react-toastify: 8.2.0
+  styled-components: 5.3.5
+  swiper: 8.2.2
+  typescript: 4.7.3
+  web-vitals: 2.1.4
 
 dependencies:
   '@sentry/react': 6.19.7_react@17.0.2
@@ -91,7 +91,7 @@ devDependencies:
   husky: 7.0.4
   lint-staged: 12.5.0
   postcss: 8.4.14
-  prettier: 2.6.2
+  prettier: 2.7.1
   react-is: 18.1.0
 
 packages:
@@ -3849,7 +3849,7 @@ packages:
     dev: false
 
   /concat-map/0.0.1:
-    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
+    resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
 
   /confusing-browser-globals/1.0.11:
     resolution: {integrity: sha512-JsPKdmh8ZkmnHxDk55FZ1TqVLvEQTvoByJZRN9jzI0UjxK/QgAmsphz7PGtqgPieQZ/CQcHWXCR7ATDNhGe+YA==}
@@ -7018,7 +7018,7 @@ packages:
     dev: false
 
   /nano-time/1.0.0:
-    resolution: {integrity: sha1-sFVPaa2J4i0JB/ehKwmTpdlhN+8=}
+    resolution: {integrity: sha512-flnngywOoQ0lLQOTRNexn2gGSNuM9bKj9RZAWSzhQ+UJYaAFG9bac4DW9VHjUAzrOaIcajHybCTHe/bkvozQqA==}
     dependencies:
       big-integer: 1.6.51
     dev: false
@@ -8175,8 +8175,8 @@ packages:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
     engines: {node: '>= 0.8.0'}
 
-  /prettier/2.6.2:
-    resolution: {integrity: sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==}
+  /prettier/2.7.1:
+    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
@@ -8659,7 +8659,7 @@ packages:
     dev: false
 
   /remove-accents/0.4.2:
-    resolution: {integrity: sha1-CkPTqq4egNuRngeuJUsoXZ4ce7U=}
+    resolution: {integrity: sha512-7pXIJqJOq5tFgG1A2Zxti3Ht8jJF337m4sowbuHsW30ZnkQFnDzy9qBNhgzX8ZLW4+UBcXiiR7SwR6pokHsxiA==}
     dev: false
 
   /renderkid/3.0.0:
@@ -9554,14 +9554,14 @@ packages:
     dev: false
 
   /text-table/0.2.0:
-    resolution: {integrity: sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=}
+    resolution: {integrity: sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw==}
 
   /throat/6.0.1:
     resolution: {integrity: sha512-8hmiGIJMDlwjg7dlJ4yKGLK8EsYqKgPWbG3b4wjJddKNwc7N7Dpn08Df4szr/sZdMVeOstrdYSsqzX6BYbcB+w==}
     dev: false
 
   /through/2.3.8:
-    resolution: {integrity: sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU=}
+    resolution: {integrity: sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==}
     dev: true
 
   /thunky/1.1.0:
@@ -9581,7 +9581,7 @@ packages:
     dev: false
 
   /to-fast-properties/2.0.0:
-    resolution: {integrity: sha1-3F5pjL0HkmW8c+A3doGk5Og/YW4=}
+    resolution: {integrity: sha512-/OaKK0xYrs3DmxRYqL/yDc+FxFUVYhDlXMhRmv3z915w2HF1tnN1omB354j8VUGO/hbRzyD6Y3sA7v7GS/ceog==}
     engines: {node: '>=4'}
 
   /to-regex-range/5.0.1:
@@ -9646,7 +9646,7 @@ packages:
       typescript: 4.7.3
 
   /type-check/0.3.2:
-    resolution: {integrity: sha1-WITKtRLPHTVeP7eE8wgEsrUg23I=}
+    resolution: {integrity: sha512-ZCmOJdvOWDBYJlzAoFkC+Q0+bUyEOS1ltgp1MGU03fqHG+dbi9tBFU2Rd9QKiDZFAYrhPh2JUf7rZRIuHRKtOg==}
     engines: {node: '>= 0.8.0'}
     dependencies:
       prelude-ls: 1.1.2
@@ -9694,7 +9694,6 @@ packages:
     resolution: {integrity: sha512-WOkT3XYvrpXx4vMMqlD+8R8R37fZkjyLGlxavMc4iB8lrl8L0DeTcHbYgw/v0N/z9wAFsgBhcsF0ruoySS22mA==}
     engines: {node: '>=4.2.0'}
     hasBin: true
-    dev: false
 
   /unbox-primitive/1.0.2:
     resolution: {integrity: sha512-61pPlCD9h51VoreyJ0BReideM3MDKMKnh6+V9L08331ipq6Q8OFXZYiqP6n/tbHx4s5I9uRhcye6BrbkizkBDw==}
@@ -10255,7 +10254,7 @@ packages:
       strip-ansi: 6.0.1
 
   /wrappy/1.0.2:
-    resolution: {integrity: sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=}
+    resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
 
   /write-file-atomic/3.0.3:
     resolution: {integrity: sha512-AvHcyZ5JnSfq3ioSyjrBkH9yW4m7Ayk8/9My/DD9onKeu/94fwrMocemO2QAJFAlnnDN+ZDS+ZjAR5ua1/PV/Q==}
